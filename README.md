@@ -30,6 +30,24 @@ Add FFmpeg to PATH environment variable
 * then Deploy The Bot From [Here](https://heroku.com/deploy)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
+	
+	<b>qr Scan 🔎 
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@user123ja/MUTHU-MD?v=1)
+
+
+
+
+
+---- 
+
+
+
+
+<b>Deploy 💻
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 </details>
 
