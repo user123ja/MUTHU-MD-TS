@@ -2,15 +2,6 @@
 <img src="https://telegra.ph/file/9e419ec409836fb6bd331.jpg" alt="nz" width="350"/>
 </p>
 
-## Gojo-Satoru
-
-> <a href="https://www.youtube.com/channel/UCBi1evgI3DI3pwC_H5zK0kg"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
-
-> [Automated Multi Device whatsapp bot created](https://github.com/user123ja/MUTHU-MD-TS) by [nexusNw](github.com/nexusNw)
-
-> Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
-
-> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/user123ja/MUTHU-MD-TS) And Register [here](https://zenzapis.xyz/) to get apikey
 
 
 </br>
