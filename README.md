@@ -25,7 +25,7 @@ Add FFmpeg to PATH environment variable
 <!-- Start via Heroku -->
 <b><details><summary>Start via Heroku</summary></b>
 
-* Scan QR In Your Whatsapp From [Here](https://replit.com/@user123ja/MUTHU-MD)
+* Scan QR In Your Whatsapp From [Here](https://replit.com/@user123ja/MUTHU-MD?v=1)
 * Fork This Repo By Clicking [Here](https://github.com/user123ja/MUTHU-MD-TS/fork)
 * then Deploy The Bot From [Here](https://heroku.com/deploy)
 * Wait 5-10 Min To Deploy 
